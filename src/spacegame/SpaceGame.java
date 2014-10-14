@@ -19,7 +19,6 @@ public class SpaceGame {
         //SER DOKK HERRE
         int en = 1;
         int to = 2;
-        int tre = 3;
     }
     
 }
