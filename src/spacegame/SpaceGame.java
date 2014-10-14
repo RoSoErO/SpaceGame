@@ -18,6 +18,7 @@ public class SpaceGame {
         // TODO code application logic here
         //SER DOKK HERRE
         int en = 1;
+        int to = 2;
     }
     
 }
